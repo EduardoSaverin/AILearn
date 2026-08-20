@@ -28,7 +28,7 @@ phases/
 Open the Colab link from the lesson page, or from a path here:
 
 ```
-https://colab.research.google.com/github/EduardoSaverin/papertocode-notebooks/blob/main/phases/<phase>/<lesson>/notebook.ipynb
+https://colab.research.google.com/github/EduardoSaverin/AILearn/blob/main/phases/<phase>/<lesson>/notebook.ipynb
 ```
 
 Notebooks that need packages beyond Colab's defaults start with a `pip install`
@@ -70,4 +70,4 @@ explanation above it says so.
 
 ## Licence
 
-See [LICENSE](LICENSE).
+MIT — see [LICENSE](LICENSE).
